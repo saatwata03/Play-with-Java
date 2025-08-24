@@ -1,0 +1,10 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Compiled Java classes
+out/
+*.class
+
+# JavaFX SDK or other dependencies
+lib/
